@@ -19,4 +19,13 @@
 * more details.
 */
 
+int main(int argc, char *argv[]){
+
+	int a;
+
+	a = a+1;
+
+	printf("print data a %d \n",a); 
+}
+
 
